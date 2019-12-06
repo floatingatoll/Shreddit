@@ -18,5 +18,4 @@ default_config = {"username": None,
                   "trial_run": False,
                   "clear_vote": False,
                   "replacement_format": "random",
-                  "edit_only": False,
                   "batch_cooldown": 10}
